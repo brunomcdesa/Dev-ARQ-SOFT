@@ -1,0 +1,4 @@
+Nome, CPF, Ag, Conta, saldo, limite
+Bruno Cardoso, 123.456.789-00, 1233, 123456, 0.0, 1000.0  
+Rosana Joana, 987.654.321-01, 0001, 123587, 500.50, 500.0
+Andrey Coatcheins, 951.753.369-48, 5166, 154869, 251.60, 2500.0
